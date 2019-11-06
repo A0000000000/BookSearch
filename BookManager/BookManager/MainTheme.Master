@@ -1,0 +1,24 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MainTheme.master.cs" Inherits="BookManager.MainTheme" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>图书查询</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <asp:DropDownList id="themeList" runat="server" AutoPostBack="True">
+                <asp:ListItem Text="White" Value="White" Selected="True" ></asp:ListItem>
+                <asp:ListItem Text="Black" Value="Black"></asp:ListItem>
+            </asp:DropDownList>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

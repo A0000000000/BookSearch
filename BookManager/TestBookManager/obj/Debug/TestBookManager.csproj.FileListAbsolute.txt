@@ -1,0 +1,15 @@
+D:\Code\C#\ASP.net\BookManager\TestBookManager\bin\Debug\NUnit3.TestAdapter.dll
+D:\Code\C#\ASP.net\BookManager\TestBookManager\bin\Debug\NUnit3.TestAdapter.pdb
+D:\Code\C#\ASP.net\BookManager\TestBookManager\bin\Debug\nunit.engine.dll
+D:\Code\C#\ASP.net\BookManager\TestBookManager\bin\Debug\nunit.engine.api.dll
+D:\Code\C#\ASP.net\BookManager\TestBookManager\bin\Debug\TestBookManager.exe.config
+D:\Code\C#\ASP.net\BookManager\TestBookManager\bin\Debug\TestBookManager.exe
+D:\Code\C#\ASP.net\BookManager\TestBookManager\bin\Debug\TestBookManager.pdb
+D:\Code\C#\ASP.net\BookManager\TestBookManager\bin\Debug\BookManager.dll
+D:\Code\C#\ASP.net\BookManager\TestBookManager\bin\Debug\BookManager.pdb
+D:\Code\C#\ASP.net\BookManager\TestBookManager\bin\Debug\BookManager.dll.config
+D:\Code\C#\ASP.net\BookManager\TestBookManager\obj\Debug\TestBookManager.csprojAssemblyReference.cache
+D:\Code\C#\ASP.net\BookManager\TestBookManager\obj\Debug\TestBookManager.csproj.CoreCompileInputs.cache
+D:\Code\C#\ASP.net\BookManager\TestBookManager\obj\Debug\TestBookManager.csproj.CopyComplete
+D:\Code\C#\ASP.net\BookManager\TestBookManager\obj\Debug\TestBookManager.exe
+D:\Code\C#\ASP.net\BookManager\TestBookManager\obj\Debug\TestBookManager.pdb
